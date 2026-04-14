@@ -1,6 +1,7 @@
 # lxipmadi DKMS — Digigram LX-IP / LX-MADI driver
 
 Patched version of the Digigram lxipmadi 3.1.2 driver for modern kernels (5.12+).
+https://github.com/Digigram-audio/lxipmadi
 
 ## Patches applied
 
